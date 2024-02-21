@@ -9,12 +9,17 @@ Feel free to explore the SQL scripts and provide any feedback or contributions.
 ## Installation
 
 1. **Clone the repository**:
-   Clone the repository using gh repo clone Shahariar-Rokon/SQL-Queries.
+   Clone the repository to your local machine using the GitHub CLI command:
+   ```shell
+   gh repo clone Shahariar-Rokon/SQL-Queries
+Alternatively, you can download the ZIP file from the GitHub repository page: https://github.com/Shahariar-Rokon/SQL-Queries
 2. **Set up the database**:
    To setup you can start by create the database SportsDB 1st. 
    Now you should use the DDL file to create the necessary tables.
 3. **Run the SQL file**:
    To run the SQL files, you should run one block at a time. Note that if you run all at once, it wont show how each section works.
+4. Software recommendation:
+   You need to use MS SQL server and SQL server management studio.
 
 ## Usage
 
